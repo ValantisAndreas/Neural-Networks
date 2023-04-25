@@ -8,12 +8,12 @@ Lab Exercises for the Neural Networks &amp; Intelligent Systems course @ ECE NTU
 Supervised Machine Learning utilizing different classifiers on two balanced datasets.
 
 ## UCI Dataset - Statlog Vehicle Silhouettes
-The dataset that was used can be found [here](http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes))
+The dataset that was used can be found [here](http://archive.ics.uci.edu/ml/datasets/Statlog+(Vehicle+Silhouettes)).
 The training and optimization of the classifiers on the UCI dataset was done exclusively with the skicit-learn functions. After the initial exploratory data analysis we utilised the ***Dummy, Gaussian Naive Bayes (GNB), KNeirestNeighbors (kNN) &amp; Logistic Regression (LR)*** classifiers and evaluated their performance based on ***Accuracy*** and ***F1-score*** metrics. Lastly, the afforementioned classifiers were optimized by setting up pipelines and performing ***Grid Search*** to fine-tune them.
 
 ## Kaggle Dataset - CS:GO Round Winner Classification
-The dataset that was used can be found [here](https://www.kaggle.com/christianlillelund/csgo-round-winner-classification)
-The training and optimization of the classifiers on the UCI dataset was done with the skicit-learn functions and the optuna library. After the initial exploratory data analysis we utilised the ***Mylti-Layer Perceptron (MLP) &amp; Support Vector Machines (SVM)*** and ***Logistic Regression (LR)*** classifiers and evaluated their performance based on ***Accuracy &amp; F1-score*** metrics. Lastly, the afforementioned classifiers were optimized by setting up pipelines and utilizing both ***Grid Search*** and the ***Optuna otimization libary*** to fine-tune them.
+The dataset that was used can be found [here](https://www.kaggle.com/christianlillelund/csgo-round-winner-classification).
+The training and optimization of the classifiers on this dataset was done with the skicit-learn functions and the optuna library. After the initial exploratory data analysis we utilised the ***Mylti-Layer Perceptron (MLP) &amp; Support Vector Machines (SVM)*** and ***Logistic Regression (LR)*** classifiers and evaluated their performance based on ***Accuracy &amp; F1-score*** metrics. Lastly, the afforementioned classifiers were optimized by setting up pipelines and utilizing both ***Grid Search*** and the ***Optuna otimization libary*** to fine-tune them.
 
 </p>
 </details>
