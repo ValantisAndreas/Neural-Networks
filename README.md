@@ -2,7 +2,7 @@
 Lab Exercises for the Neural Networks &amp; Intelligent Systems course @ ECE NTUA
 
 <br> 
- <details><summary> Lab 1 - Supervised Machine Learning </summary>
+ <details><summary> Lab 1 - Supervised Machine Learning (Classification)</summary>
 <p>
 
 Supervised Machine Learning utilizing different classifiers on two balanced datasets.
@@ -21,7 +21,7 @@ The training and optimization of the classifiers on this dataset was done with t
 
 -----
 <br> 
- <details><summary> Lab 2 - Unsupervised Learning </summary>
+ <details><summary> Lab 2 - Unsupervised Learning (Movie Recommender)</summary>
 <p>
 
 The dataset used is based on the [Carnegie Mellon Movie Summary Corpus](http://www.cs.cmu.edu/~ark/personas/). This is a dataset with 22,301 movie descriptions and for the purpose of this exercise a partition of ***5000*** movies was used.
@@ -40,7 +40,7 @@ In the second application we relied on the topological properties of Self Organi
 
 -----
 <br> 
- <details><summary> Lab 3 - Deep learning </summary>
+ <details><summary> Lab 3 - Deep learning (Image Captioning)</summary>
 <p>
 
 ## Image Captioning
