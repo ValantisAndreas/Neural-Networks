@@ -48,7 +48,7 @@ In the second application we relied on the topological properties of Self Organi
 We studied a problem that combines Computer Vision and Natural Language Processing. Specifically, we build a neural network for producing verbal descriptions from images (Image Captioning).
 The dataset used for this exercise is ***flickr30k-images-ecemod***, a split of **Flick30k** specifically set for the needs of our Neural Networks class.
 flickr30k-images-ecemod has a similar organization to ***COCO***. Each image has 5 captions made by different people through Amazon's Mechanical Turk service.
-The model is based on the general architecture of transformers. A convolutional network is used as an encoder of the visual information and a series of transformer-decoder layers produce the verbal description. Transformer-decoder levels also include attention levels. The model's perfomance was evaluated using ***BLEU (Bilingual Evaluation Understudy) score***. Diffrent Embeddings were utilized to test the model's perfomance and ***Beam Serach*** was implemened for better sentence generator accuracy.
+The model is based on the general architecture of transformers. A convolutional neural network is used as an encoder of the visual information and a series of transformer-decoder layers produce the verbal description. Transformer-decoder levels also include attention levels. The model's performance was evaluated using ***BLEU (Bilingual Evaluation Understudy) score***. Diffrent Embeddings were utilized to test the model's performance and ***Beam Search*** was implemened for better sentence generator accuracy.
 
 </p>
 </details>
